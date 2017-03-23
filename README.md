@@ -1,6 +1,6 @@
 # Spring 5 Reactive Web Sample
 
-[Original Sample](https://github.com/poutsma/web-function-sample)
+**What's new in Spring 5.0** [Presentation](http://2017-spring-5.cfapps.io/)
 
 This repository contains a sample application that uses the functional web framework introduced in Spring 5.
 It consists of the following types:
@@ -26,6 +26,8 @@ mongod --config /usr/local/etc/mongod.conf
 ### Running the Client
  - Build using maven
  - Run the `io.pivotal.apac.Client` class
+
+[Spring 5 Functional Web Framework Sample](https://github.com/poutsma/web-function-sample)
 
 ### License
 This sample released under version 2.0 of the [Apache License][].
